@@ -71,16 +71,15 @@
             "color_mode": "color"
           }
         },
-        "button_Mbrz66": {
-          "type": "button",
+        "buy_buttons_YFyWXb": {
+          "type": "buy_buttons",
           "settings": {
-            "link": "",
-            "text": "Ajoutez Au Panier",
-            "size": "xl",
-            "style": "fill",
-            "stretch": true,
-            "background": "",
-            "text_color": ""
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f0f0f0",
+            "atc_button_text_color": "#000000",
+            "payment_button_background": "#f0f0f0",
+            "payment_button_text_color": "#f0f0f0"
           }
         },
         "inventory_YpAYz8": {
@@ -130,7 +129,7 @@
         "quantity_selector_3g6mLB",
         "associated_products_RCeK6f",
         "product_variations_9Y8g4e",
-        "button_Mbrz66",
+        "buy_buttons_YFyWXb",
         "inventory_YpAYz8",
         "payment_terms",
         "separator_KGgPLc",
