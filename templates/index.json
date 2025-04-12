@@ -298,7 +298,7 @@
       "settings": {
         "full_width": true,
         "stack_collections": false,
-        "collections_per_row": 3,
+        "collections_per_row": 2,
         "show_progress_bar": false,
         "subheading": "",
         "title": "Filtres",
@@ -307,7 +307,7 @@
         "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
       }
