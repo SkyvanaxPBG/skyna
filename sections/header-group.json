@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Code Promo      🔥",
+            "text": "Code LDC10 -20% sur votre première commande   🔥",
             "url": ""
           }
         },
@@ -38,7 +38,7 @@
         "text_size": "text-lg",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
