@@ -23,7 +23,7 @@
             "title": "Le style commence au coup d’envoi",
             "heading_tag": "h1",
             "button_text": "voir les maillot",
-            "button_link": "",
+            "button_link": "shopify://collections/tout-les-maillots",
             "text_color": "#f0f0f0",
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
@@ -81,7 +81,7 @@
             "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "par et pour les vrais passionnés",
+            "title": "Par et Pour les vrais passionnés",
             "content": "<h6><strong>Vibrez football avec nos maillots alliant style et confort. Sur le terrain ou dans les tribunes, affichez fièrement vos couleurs</strong></h6>",
             "button_url": "",
             "button_text": ""
