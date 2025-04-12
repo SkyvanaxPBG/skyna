@@ -74,7 +74,7 @@
         "button_TVpEpJ": {
           "type": "button",
           "settings": {
-            "link": "shopify://blogs/infos",
+            "link": "shopify://collections",
             "text": "Ajoutez au Panier",
             "size": "xl",
             "style": "fill",
