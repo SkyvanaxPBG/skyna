@@ -36,7 +36,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Messi_10.jpg",
+            "image": "shopify://shop_images/Messi_10-picaai.png",
+            "mobile_image": "shopify://shop_images/Messi_10-picaai.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -81,7 +82,7 @@
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "par et pour les vrais passionnés",
-            "content": "<p><strong>Vibrez football avec nos maillots alliant style et confort. Sur le terrain ou dans les tribunes, affichez fièrement vos couleurs</strong></p>",
+            "content": "<h6><strong>Vibrez football avec nos maillots alliant style et confort. Sur le terrain ou dans les tribunes, affichez fièrement vos couleurs</strong></h6>",
             "button_url": "",
             "button_text": ""
           }
@@ -121,9 +122,9 @@
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 5,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 5,
         "subheading": "",
         "title": "Notre sélection pour l'été 🌞🌴",
         "content": "",
@@ -235,21 +236,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "collection-list": {
@@ -657,7 +643,6 @@
     "multiple-images-with-text",
     "featured-collection",
     "image-link-blocks",
-    "scrolling-text",
     "collection-list",
     "impact-text",
     "image-with-text-overlay",
