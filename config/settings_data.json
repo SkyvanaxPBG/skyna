@@ -52,26 +52,10 @@
         "disabled": true,
         "settings": {}
       },
-      "6810535121229352664": {
-        "type": "shopify://apps/monster-cart-upsell-free-gifts/blocks/app-embed/a1b8e58a-bf1d-4e0f-8768-a387c3f643c0",
+      "6289495341927022121": {
+        "type": "shopify://apps/ymq-cart-drawer-cart-upsell/blocks/app-embed/998af8a7-571f-419f-b29a-2dd178cb5578",
         "disabled": false,
-        "settings": {
-          "markets_rounding": false,
-          "send_gtag_atc": false,
-          "disable_tiktok_tracking": false,
-          "disable_klaviyo_tracking": false,
-          "stop_cart_page": false,
-          "apply_discount_before_checkout": false,
-          "do_not_hide_previous_tiers": false,
-          "bag_selector": "",
-          "hide_when_opened": "",
-          "show_item_properties": true,
-          "show_private_properties": false,
-          "stop_shopify_rate": false,
-          "dev_mode": false,
-          "beta_version": false,
-          "custom_code": "<script>\n    // custom code here\n</script>"
-        }
+        "settings": {}
       }
     }
   },
