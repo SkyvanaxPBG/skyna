@@ -20,10 +20,18 @@
             "text": "Code Promo      🔥",
             "url": ""
           }
+        },
+        "message_3aPnQA": {
+          "type": "message",
+          "settings": {
+            "text": "2 maillots achetés 1 offert 💥",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_3aPnQA"
       ],
       "settings": {
         "enable_sticky": false,
