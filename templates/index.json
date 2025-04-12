@@ -353,7 +353,7 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "personalisé vos maillots",
+            "text": "Personalisé  vos maillots",
             "heading_tag": "h1"
           }
         },
@@ -372,7 +372,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "md",
         "image": "shopify://shop_images/Messi_10_1_-picaai.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
