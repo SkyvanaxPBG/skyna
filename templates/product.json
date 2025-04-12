@@ -90,7 +90,7 @@
         "description_d6nHGj": {
           "type": "description",
           "settings": {
-            "collapse_content": true
+            "collapse_content": false
           }
         },
         "liquid_pbEPUL": {
@@ -162,36 +162,10 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
-    },
-    "1744456236998dd477": {
-      "type": "apps",
-      "blocks": {
-        "c_edd_estimated_delivery_date_delivery_coder_theme_cBizXF": {
-          "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "c_edd_estimated_delivery_date_delivery_coder_theme_cBizXF"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
     "main",
-    "related-products",
-    "1744456236998dd477"
+    "related-products"
   ]
 }
