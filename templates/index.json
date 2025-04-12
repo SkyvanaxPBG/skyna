@@ -151,6 +151,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement_14.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -163,6 +164,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement_13.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -175,6 +177,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement_15.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -187,6 +190,7 @@
         "item_FMEzWE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement_12.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -199,6 +203,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Bundesliga.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -233,7 +238,7 @@
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "",
+        "title": "choisissez votre championnat",
         "content": "",
         "link_url": "",
         "link_text": "",
