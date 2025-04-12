@@ -19,14 +19,14 @@
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
+            "subheading": "",
+            "title": "Le style commence au coup d’envoi",
+            "heading_tag": "h2",
+            "button_text": "Explorer les maillots",
             "button_link": "",
-            "text_color": "#ffffff",
+            "text_color": "#f0f0f0",
             "button_background": "#ffffff",
-            "button_text_color": "#000000",
+            "button_text_color": "#f0f0f0",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "background": "",
@@ -36,8 +36,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
-            "content_max_width": 780,
+            "image": "shopify://shop_images/Messi_10.jpg",
+            "content_max_width": 1200,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
@@ -49,7 +49,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 13,
             "background": "",
             "background_gradient": ""
           }
@@ -69,6 +69,48 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "images_layout": "collage",
+        "collage_images_alignment": "top",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image-link-blocks": {
@@ -285,7 +327,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Tenue de champion, flow sans pression",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -563,47 +605,6 @@
         "hot_spot_content_blur_radius": 3
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -659,6 +660,7 @@
   },
   "order": [
     "slideshow",
+    "multiple-images-with-text",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
@@ -668,7 +670,6 @@
     "media-grid",
     "press",
     "hot-spots",
-    "multiple-images-with-text",
     "faq"
   ]
 }
