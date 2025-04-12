@@ -34,11 +34,7 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "variant_picker": {
+        "variant_picker_K3GJmE": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
@@ -47,6 +43,10 @@
             "color_mode": "color",
             "size_chart_page": ""
           }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
         },
         "quantity_selector_3g6mLB": {
           "type": "quantity_selector",
@@ -62,15 +62,25 @@
             "text_color": ""
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
+        "product_variations_9Y8g4e": {
+          "type": "product_variations",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "option_name": "",
+            "option_value_metafield": "",
+            "products": [],
+            "color_mode": "color"
+          }
+        },
+        "button_TVpEpJ": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://blogs/infos",
+            "text": "Ajoutez au Panier",
+            "size": "xl",
+            "style": "fill",
+            "stretch": true,
+            "background": "#000000",
+            "text_color": "#f0f0f0"
           }
         },
         "payment_terms": {
@@ -109,11 +119,12 @@
         "price",
         "badges",
         "rating",
+        "variant_picker_K3GJmE",
         "separator",
-        "variant_picker",
         "quantity_selector_3g6mLB",
         "associated_products_RCeK6f",
-        "buy_buttons",
+        "product_variations_9Y8g4e",
+        "button_TVpEpJ",
         "payment_terms",
         "separator_KGgPLc",
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
