@@ -74,7 +74,7 @@
         "button_NeJhyB": {
           "type": "button",
           "settings": {
-            "link": "",
+            "link": "shopify://collections",
             "text": "Ajoutez Au Panier",
             "size": "xl",
             "style": "fill",
