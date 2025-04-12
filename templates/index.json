@@ -80,8 +80,8 @@
             "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Tes couleurs, ton équipe, ton moment",
+            "content": "<p><br/>Affichez vos couleurs avec nos maillots stylés et ultra confort, inspirés des plus grands clubs. Vivez le jeu, vibrez fort : AlloFoot, le style des vrais passionnés<br/><br/></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -136,6 +136,21 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "image-link-blocks": {
@@ -235,21 +250,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "collection-list": {
@@ -662,8 +662,8 @@
     "slideshow",
     "multiple-images-with-text",
     "featured-collection",
-    "image-link-blocks",
     "scrolling-text",
+    "image-link-blocks",
     "collection-list",
     "impact-text",
     "image-with-text-overlay",
