@@ -117,8 +117,14 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "products": [],
+        "collection": "ete-🌞",
+        "products": [
+          "inter-miami-maillot-concept-rose-bleu",
+          "maillot-24-25-real-madrid-special-rose",
+          "maillot-24-25-psg-bleu",
+          "maillot-arsenal-rose",
+          "maillot-bresil-2022-2024"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
