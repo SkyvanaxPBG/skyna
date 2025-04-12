@@ -88,6 +88,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/20505d25.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -228,10 +229,10 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Filtres",
         "content": "",
-        "link_url": "",
-        "link_text": "View all",
+        "link_url": "shopify://collections/fan",
+        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
