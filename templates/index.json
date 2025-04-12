@@ -358,28 +358,21 @@
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "personalisé vos maillot",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<h3>montrer votre créativité</h3>"
           }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
@@ -388,6 +381,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Messi_10_1_-picaai.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
