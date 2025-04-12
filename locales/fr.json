@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Page {{ page }}",
@@ -84,7 +93,7 @@
       "view_in_space": "Afficher dans votre espace",
       "taxes_included": "Taxes inclues",
       "taxes_excluded": "Taxes exclues",
-      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Frais d'envoi calculés<\/a> à la caisse",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Frais d'envoi calculés</a> à la caisse",
       "size_chart": "Guide des tailles",
       "available_colors_count": {
         "one": "{{ count }} couleur",
@@ -392,7 +401,7 @@
   "password": {
     "general": {
       "follow_us": "Nous suivre",
-      "powered_by": "Cette boutique est propulsée par",
+      "powered_by": " ",
       "store_owner": "Gérant de la boutique ?",
       "login": "Se connecter"
     },
@@ -413,6 +422,11 @@
         "one": "Il a reçu {{ count }} avis.",
         "other": "Il a reçu {{ count }} avis."
       }
+    }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
     }
   }
 }
