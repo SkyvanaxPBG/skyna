@@ -72,6 +72,37 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "ete-🌞",
+        "products": [
+          "maillot-24-25-real-madrid-special-rose",
+          "maillot-24-25-psg-bleu",
+          "inter-miami-maillot-concept-rose-bleu",
+          "maillot-arsenal-rose",
+          "maillot-bresil-2022-2024"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Notre sélection pour l'été 🌞🌴",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -112,37 +143,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "ete-🌞",
-        "products": [
-          "maillot-24-25-real-madrid-special-rose",
-          "maillot-24-25-psg-bleu",
-          "inter-miami-maillot-concept-rose-bleu",
-          "maillot-arsenal-rose",
-          "maillot-bresil-2022-2024"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "Notre sélection pour l'été 🌞🌴",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "image-link-blocks": {
@@ -280,6 +280,20 @@
             "overlay_opacity": 30
           }
         },
+        "collection_YMHyFV": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "collection-3": {
           "type": "collection",
           "settings": {
@@ -298,6 +312,7 @@
       "block_order": [
         "collection-1",
         "collection-2",
+        "collection_YMHyFV",
         "collection-3"
       ],
       "settings": {
