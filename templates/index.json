@@ -37,7 +37,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Messi_10.jpg",
-            "content_max_width": 780,
+            "content_max_width": 500,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
