@@ -11,113 +11,20 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "featured_collection_Fw7tyd": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "text-with-icons": {
-      "type": "text-with-icons",
-      "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 72,
-            "icon_background_type": "circle",
-            "icon_background": "#000000",
-            "icon_color": "#ffffff",
-            "title": "Livraison gratuite",
-            "content": "<p>Informez vos clients de votre offre d’expédition.</p>"
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 72,
-            "icon_background_type": "circle",
-            "icon_background": "#000000",
-            "icon_color": "#ffffff",
-            "title": "Service client",
-            "content": "<p>Expliquez à vos clients comment ils peuvent vous joindre.</p>"
-          }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 72,
-            "icon_background_type": "circle",
-            "icon_background": "#000000",
-            "icon_color": "#f2f2f2",
-            "title": "Paiement sécurisé",
-            "content": "<p>Informez vos clients de vos méthodes de paiement.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "free-shipping",
-        "customer-support",
-        "payment"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h6",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez-vous pour de nouvelles histoires et des offres personnelles",
+            "title": "inscrit toi pour recevoir les nouveautés",
             "content": ""
           }
         }
       },
       "block_order": [
-        "links",
         "newsletter"
       ],
       "settings": {
@@ -131,8 +38,6 @@
     }
   },
   "order": [
-    "featured_collection_Fw7tyd",
-    "text-with-icons",
     "footer"
   ]
 }
