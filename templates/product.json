@@ -71,16 +71,16 @@
             "color_mode": "color"
           }
         },
-        "button_TVpEpJ": {
+        "button_NeJhyB": {
           "type": "button",
           "settings": {
-            "link": "shopify://collections",
-            "text": "Ajoutez au Panier",
+            "link": "",
+            "text": "Ajoutez Au Panier",
             "size": "xl",
             "style": "fill",
             "stretch": true,
             "background": "#000000",
-            "text_color": "#f0f0f0"
+            "text_color": ""
           }
         },
         "payment_terms": {
@@ -124,7 +124,7 @@
         "quantity_selector_3g6mLB",
         "associated_products_RCeK6f",
         "product_variations_9Y8g4e",
-        "button_TVpEpJ",
+        "button_NeJhyB",
         "payment_terms",
         "separator_KGgPLc",
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
