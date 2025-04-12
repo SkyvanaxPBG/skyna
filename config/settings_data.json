@@ -54,7 +54,7 @@
       },
       "6289495341927022121": {
         "type": "shopify://apps/ymq-cart-drawer-cart-upsell/blocks/app-embed/998af8a7-571f-419f-b29a-2dd178cb5578",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       },
       "22230382528836309": {

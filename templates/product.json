@@ -83,6 +83,12 @@
             "text_color": ""
           }
         },
+        "inventory_YpAYz8": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 100
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -125,6 +131,7 @@
         "associated_products_RCeK6f",
         "product_variations_9Y8g4e",
         "button_Mbrz66",
+        "inventory_YpAYz8",
         "payment_terms",
         "separator_KGgPLc",
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
