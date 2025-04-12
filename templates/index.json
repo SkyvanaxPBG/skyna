@@ -21,8 +21,8 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Le style commence au coup d’envoi",
-            "heading_tag": "h2",
-            "button_text": "Explorer les maillots",
+            "heading_tag": "h1",
+            "button_text": "voir les maillot",
             "button_link": "",
             "text_color": "#f0f0f0",
             "button_background": "#ffffff",
@@ -80,8 +80,8 @@
             "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Tes couleurs, ton équipe, ton moment",
-            "content": "<p><br/>Affichez vos couleurs avec nos maillots stylés et ultra confort, inspirés des plus grands clubs. Vivez le jeu, vibrez fort : AlloFoot, le style des vrais passionnés<br/><br/></p>",
+            "title": "par et pour les vrais passionnés",
+            "content": "<p><strong>Vibrez football avec nos maillots alliant style et confort. Sur le terrain ou dans les tribunes, affichez fièrement vos couleurs</strong></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -136,21 +136,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "image-link-blocks": {
@@ -250,6 +235,21 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "collection-list": {
@@ -662,8 +662,8 @@
     "slideshow",
     "multiple-images-with-text",
     "featured-collection",
-    "scrolling-text",
     "image-link-blocks",
+    "scrolling-text",
     "collection-list",
     "impact-text",
     "image-with-text-overlay",
