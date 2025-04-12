@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/realmadrid_cristiano-picaai.png",
             "content_max_width": 400,
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Le style commence au coup d’envoi",
@@ -167,7 +167,7 @@
             "image": "shopify://shop_images/telechargement_13.jpg",
             "stretch_image": true,
             "link_text": "",
-            "link_url": "shopify://collections/laliga",
+            "link_url": "",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -651,8 +651,8 @@
   },
   "order": [
     "slideshow",
-    "multiple-images-with-text",
     "featured-collection",
+    "multiple-images-with-text",
     "image-link-blocks",
     "collection-list",
     "impact-text",
