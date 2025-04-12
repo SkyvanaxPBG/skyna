@@ -34,10 +34,6 @@
             "show_empty": false
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -77,14 +73,16 @@
             "payment_button_text_color": ""
           }
         },
-        "inventory_x3ze9z": {
-          "type": "inventory",
-          "settings": {
-            "low_inventory_threshold": 0
-          }
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
         },
         "separator_KGgPLc": {
           "type": "separator",
+          "settings": {}
+        },
+        "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T": {
+          "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
           "settings": {}
         },
         "description_d6nHGj": {
@@ -111,14 +109,14 @@
         "price",
         "badges",
         "rating",
-        "payment_terms",
         "separator",
         "variant_picker",
         "quantity_selector_3g6mLB",
         "associated_products_RCeK6f",
         "buy_buttons",
-        "inventory_x3ze9z",
+        "payment_terms",
         "separator_KGgPLc",
+        "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
         "description_d6nHGj",
         "liquid_pbEPUL",
         "text_AJiMjm"
