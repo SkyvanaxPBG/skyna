@@ -110,6 +110,18 @@
             "overlay_opacity": 0
           }
         },
+        "item_FMEzWE": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
@@ -139,6 +151,7 @@
         "1664424046b00c932c-0",
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
+        "item_FMEzWE",
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
@@ -146,7 +159,7 @@
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "notre selection pour l'été",
+        "title": "Notre sélection pour l'été 🌞🌴",
         "content": "",
         "link_url": "",
         "link_text": "",
