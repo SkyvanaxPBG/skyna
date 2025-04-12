@@ -11,37 +11,29 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "footer": {
-      "type": "footer",
-      "blocks": {
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Inscrivez-vous pour de nouvelles histoires et des offres personnelles",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "links",
-        "newsletter"
-      ],
+    "featured_collection_Fw7tyd": {
+      "type": "featured-collection",
       "settings": {
-        "show_social_media": true,
-        "show_payment_icons": true,
-        "show_country_selector": true,
-        "show_country_flag": true,
-        "show_country_name": true,
-        "show_locale_selector": true
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "text-with-icons": {
@@ -103,9 +95,43 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous pour de nouvelles histoires et des offres personnelles",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "links",
+        "newsletter"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "show_locale_selector": true
+      }
     }
   },
   "order": [
+    "featured_collection_Fw7tyd",
     "text-with-icons",
     "footer"
   ]
