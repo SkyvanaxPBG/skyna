@@ -316,10 +316,20 @@
             "title": "Heading 1",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
+        },
+        "item_X6WVQc": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
         }
       },
       "block_order": [
-        "item_EQK9dK"
+        "item_EQK9dK",
+        "item_X6WVQc"
       ],
       "settings": {
         "full_width": true,
@@ -327,35 +337,6 @@
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "images_with_text_scrolling_tRQAc8": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_n4Ryyj": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>t vrm un pd</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_n4Ryyj"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -372,7 +353,6 @@
     "image-link-blocks",
     "impact-text",
     "featured_collection_b7EYQj",
-    "images_with_text_scrolling_m7by7U",
-    "images_with_text_scrolling_tRQAc8"
+    "images_with_text_scrolling_m7by7U"
   ]
 }
