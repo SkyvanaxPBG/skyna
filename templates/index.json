@@ -76,7 +76,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "maillots-ete🌞",
         "products": [
           "maillot-24-25-barcelone-special-13",
           "maillot-24-25-psg-bleu",
@@ -94,7 +94,7 @@
         "title": "Notre sélection pour l'été 🌞🌴",
         "content": "",
         "link_url": "shopify://collections/ete-🌞",
-        "link_text": "View all",
+        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
