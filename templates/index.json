@@ -40,11 +40,11 @@
             "image": "shopify://shop_images/realmadrid_cristiano-picaai.png",
             "mobile_image": "shopify://shop_images/realmadrid_cristiano-picaai.png",
             "content_max_width": 1200,
-            "mobile_text_position": "place-self-start-center text-center",
+            "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "découvrez nos maillot",
-            "heading_tag": "h4",
+            "title": "Découvrer nos maillots",
+            "heading_tag": "h0",
             "button_text": "voir les maillots",
             "button_link": "",
             "text_color": "#ffffff",
@@ -71,37 +71,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "ete-🌞",
-        "products": [
-          "maillot-24-25-real-madrid-special-rose",
-          "maillot-24-25-psg-bleu",
-          "inter-miami-maillot-concept-rose-bleu",
-          "maillot-arsenal-rose",
-          "maillot-bresil-2022-2024"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 36,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Notre sélection pour l'été 🌞🌴",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "multiple-images-with-text": {
@@ -146,11 +115,48 @@
         "button_text_color": ""
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "ete-🌞",
+        "products": [
+          "maillot-24-25-barcelone-special-13",
+          "maillot-24-25-psg-bleu",
+          "maillot-arsenal-rose",
+          "maillot-barcelone-rose-2025",
+          "fc-palestine-maillot-concept-noir"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Notre sélection pour l'été 🌞🌴",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured_collection_YRFPfV": {
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "fc-palestine-maillot-concept-rose",
+          "inter-miami-maillot-concept-rose-bleu",
+          "japon-maillot-concept-rose-blanc",
+          "maillot-11-12-santos-retro",
+          "maillot-2024-2025-paris-saint-germain-maillot-third"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -283,7 +289,7 @@
     "featured_collection_b7EYQj": {
       "type": "featured-collection",
       "settings": {
-        "collection": "maillot-enfant",
+        "collection": "",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -334,10 +340,10 @@
         "item_X6WVQc"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "stack_on_mobile": false,
         "show_counter": true,
-        "desktop_image_effect": "fade",
+        "desktop_image_effect": "reveal",
         "image_position": "start",
         "background": "",
         "background_gradient": "",
@@ -349,8 +355,8 @@
   },
   "order": [
     "slideshow",
-    "featured-collection",
     "multiple-images-with-text",
+    "featured-collection",
     "featured_collection_YRFPfV",
     "image-link-blocks",
     "impact-text",
