@@ -165,7 +165,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/telechargement_13.jpg",
+            "image": "shopify://shop_images/LALIGA.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/laliga",
@@ -255,36 +255,6 @@
         "button_text_color": ""
       }
     },
-    "video_x9jXMF": {
-      "type": "video",
-      "blocks": {
-        "play_XkUgLq": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_BcKmVy": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_XkUgLq",
-        "heading_BcKmVy"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "md",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "featured_collection_b7EYQj": {
       "type": "featured-collection",
       "settings": {
@@ -369,7 +339,6 @@
     "multiple-images-with-text",
     "image-link-blocks",
     "impact-text",
-    "video_x9jXMF",
     "featured_collection_b7EYQj",
     "faq"
   ]
