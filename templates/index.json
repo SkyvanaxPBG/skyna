@@ -237,40 +237,6 @@
         "heading_gradient": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Personalisé  vos maillots",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h3>montrer votre créativité</h3>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "image": "shopify://shop_images/Messi_10_1_-picaai.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -287,6 +253,61 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "video_x9jXMF": {
+      "type": "video",
+      "blocks": {
+        "play_XkUgLq": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_BcKmVy": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_XkUgLq",
+        "heading_BcKmVy"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "md",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_collection_b7EYQj": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Les Petits Champions méritent le meilleur !",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "faq": {
@@ -347,8 +368,9 @@
     "featured-collection",
     "multiple-images-with-text",
     "image-link-blocks",
-    "image-with-text-overlay",
     "impact-text",
+    "video_x9jXMF",
+    "featured_collection_b7EYQj",
     "faq"
   ]
 }

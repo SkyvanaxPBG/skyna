@@ -13,14 +13,14 @@
       "type": "main-list-collections",
       "settings": {
         "collections": [
-          "premier-league",
-          "laliga",
-          "bundesliga",
           "lige-1",
-          "serie-a"
+          "laliga",
+          "serie-a",
+          "premier-league",
+          "bundesliga"
         ],
-        "collections_per_row": 5,
-        "text_color": "#ffffff",
+        "collections_per_row": 4,
+        "text_color": "#f0f0f0",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
