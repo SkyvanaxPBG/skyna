@@ -334,10 +334,10 @@
         "item_X6WVQc"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_on_mobile": false,
         "show_counter": true,
-        "desktop_image_effect": "reveal",
+        "desktop_image_effect": "fade",
         "image_position": "start",
         "background": "",
         "background_gradient": "",
