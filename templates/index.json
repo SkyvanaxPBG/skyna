@@ -24,7 +24,7 @@
             "title": "Le style commence au coup d’envoi!!!",
             "heading_tag": "h2",
             "button_text": "voir les maillot",
-            "button_link": "shopify://collections/tout-les-maillots",
+            "button_link": "shopify://collections",
             "text_color": "#f0f0f0",
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
@@ -46,7 +46,7 @@
             "title": "Découvrer nos maillots",
             "heading_tag": "h0",
             "button_text": "voir les maillots",
-            "button_link": "",
+            "button_link": "shopify://collections/tout-les-maillots",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
@@ -71,48 +71,6 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Par et Pour les vrais passionnés",
-            "content": "<h6><strong>Vibrez football avec nos maillots alliant style et confort. Sur le terrain ou dans les tribunes, affichez fièrement vos couleurs</strong></h6>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "images_layout": "collage",
-        "collage_images_alignment": "top",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "featured-collection": {
@@ -176,6 +134,48 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Par et Pour les vrais passionnés",
+            "content": "<h6><strong>Vibrez football avec nos maillots alliant style et confort. Sur le terrain ou dans les tribunes, affichez fièrement vos couleurs</strong></h6>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "images_layout": "collage",
+        "collage_images_alignment": "top",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image-link-blocks": {
