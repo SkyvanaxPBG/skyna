@@ -289,8 +289,14 @@
     "featured_collection_b7EYQj": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "products": [],
+        "collection": "maillot-enfant",
+        "products": [
+          "24-25-ensemble-enfant-barcelone",
+          "24-25-ensemble-enfant-espagne-1",
+          "24-25-ensemble-enfant-france-bresil",
+          "24-25-ensemble-enfant-manchester-united-1",
+          "24-25-ensemble-enfant-psg-1"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
