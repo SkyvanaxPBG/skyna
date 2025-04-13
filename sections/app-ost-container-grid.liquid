@@ -1,0 +1,193 @@
+{% style %}
+    #shopify-section-{{section.id}} #ost-grid-container-main {
+      display: grid;
+      grid-template-columns: repeat({{ section.settings.columns_mobile }}, minmax(0, 1fr));
+      column-gap: 2rem;
+      row-gap: 0;
+    }
+
+    {% if section.settings.cssStyle != '' %}
+      #shopify-section-{{section.id}} {{section.settings.cssStyle}}
+    {% endif %}
+
+    @media screen and (min-width: 640px) {
+      #shopify-section-{{section.id}} #ost-grid-container-main {
+      }
+
+    }
+    @media screen and (min-width: 768px) {
+    #shopify-section-{{section.id}} #ost-grid-container-main {
+        grid-template-columns: repeat({{section.settings.columns_desktop}}, minmax(0, 1fr));
+      }
+    }
+    @media screen and (min-width: 1024px) {
+      #shopify-section-{{section.id}} #ost-grid-container-main {
+      grid-template-columns: repeat({{section.settings.columns_large}}, minmax(0, 1fr));
+      }
+    }
+    @media screen and (min-width: 1280px) {
+      #shopify-section-{{section.id}} #ost-grid-container-main {
+      grid-template-columns: repeat({{section.settings.columns_xlarge}}, minmax(0, 1fr));
+    }
+    @media screen and (min-width: 1536px) {
+      #shopify-section-{{section.id}} #ost-grid-container-main {
+      grid-template-columns: repeat({{section.settings.columns_2xlarge}}, minmax(0, 1fr));
+    }
+  }
+{% endstyle %}
+<div id="ost-grid-container-main" class="page-width">
+  {%- for block in section.blocks -%}
+    {% render block %}
+  {%- endfor -%}
+</div>
+
+{% schema %}
+{
+  "name": "🎛️ OST grid container ",
+  "class": "section",
+  "tag": "section",
+  "settings": [
+    {
+      "type": "header",
+      "content": "General",
+      "info": "[Learn more](https://support.rush.app/os2-rush-grid-container) about the app block."
+    },
+ {
+      "type": "select",
+      "id": "visibility",
+      "label": "Visibility",
+      "info": "The section can be shown/hidden based on the shipment status",
+      "options": [
+        {
+            "value": "all_the_time",
+            "label": "All the time"
+        },
+        {
+            "value": "delivered",
+            "label": "Delivered"
+        },
+        {
+            "value": "pickup",
+            "label": "Pickup ready"
+        },
+        {
+            "value": "waiting_for_delivery",
+            "label": "Waiting for delivery"
+        },
+        {
+            "value": "failed_attempt",
+            "label": "Failed attempt"
+        },
+        {
+            "value": "out_for_delivery",
+            "label": "Out for delivery"
+        },
+        {
+            "value": "in_transit",
+            "label": "In transit"
+        },
+        {
+            "value": "pending",
+            "label": "Pending"
+        },
+        {
+            "value": "exception",
+            "label": "Exception"
+        },
+        {
+            "value": "expired",
+            "label": "Expired"
+        },
+        {
+            "value": "pre_transit",
+            "label": "Pre transit"
+        },
+        {
+            "value": "failure",
+            "label": "Failure"
+        },
+        {
+            "value": "returned",
+            "label": "Returned"
+        }
+      ],
+      "default": "all_the_time"
+    },
+
+    {
+      "type": "header",
+      "content": "Screen columns"
+    },
+    {
+      "type": "range",
+      "id": "columns_mobile",
+      "min": 1,
+      "max": 3,
+      "step": 1,
+      "default": 1,
+      "label": "Number of columns on mobile"
+    },
+    {
+      "type": "range",
+      "id": "columns_tablet",
+      "min": 1,
+      "max": 3,
+      "step": 1,
+      "default": 1,
+      "label": "Number of columns on tablet"
+    },
+    {
+      "type": "range",
+      "id": "columns_desktop",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "default": 1,
+      "label": "Number of columns on desktop"
+    },
+    {
+      "type": "range",
+      "id": "columns_large",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "default": 1,
+      "label": "Number of columns on large screen"
+    },
+    {
+      "type": "range",
+      "id": "columns_xlarge",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "default": 1,
+      "label": "Number of columns on extra large screen"
+    },
+    {
+      "type": "range",
+      "id": "columns_2xlarge",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "default": 1,
+      "label": "Number of columns on extra large"
+    },
+    {
+      "type": "html",
+      "id": "cssStyle",
+      "label": "CSS style",
+      "info": "[Learn more about styles here](https://support.rush.app/os2-rush-grid-container)"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+    }
+  ],
+  "presets": [
+    {
+      "name": "OST grid container"
+    }
+  ]
+}
+{% endschema %}

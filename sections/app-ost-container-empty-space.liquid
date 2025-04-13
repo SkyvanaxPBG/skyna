@@ -1,0 +1,49 @@
+{% comment %}
+  Please do not modify this file
+{% endcomment %}
+{%- style -%}
+    #shopify-section-{{ section.id }} {
+      height: {{ section.settings.desktop_height }}px;
+    }
+    @media only screen and (max-width: 600px) {
+    #shopify-section-{{ section.id }} {
+      height: {{ section.settings.mobile_height }}px;
+    }
+  }
+  {%- endstyle -%}
+  
+  {% schema %}
+  {
+    "name": "↕️ OST Empty Space",
+    "tag": "section",
+    "class": "section spacing-section",
+    "settings": [
+      {
+        "type": "range",
+        "id": "desktop_height",
+        "label": "Desktop height",
+        "default": 40,
+        "min": 0,
+        "max": 200,
+        "step": 4,
+        "unit": "px"
+      },
+      {
+        "type": "range",
+        "id": "mobile_height",
+        "label": "Mobile height",
+        "default": 28,
+        "min": 0,
+        "max": 200,
+        "step": 4,
+        "unit": "px"
+      }
+    ],
+    "presets": [
+      {
+        "name": "↕️ OST Empty Space"
+      }
+    ]
+  }
+  {% endschema %}
+  
