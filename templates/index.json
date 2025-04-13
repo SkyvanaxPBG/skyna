@@ -165,7 +165,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "Vos coup de cœur 💙",
+        "title": "Vos coups de cœur 💙",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -363,8 +363,8 @@
   "order": [
     "slideshow",
     "multiple-images-with-text",
-    "featured-collection",
     "featured_collection_YRFPfV",
+    "featured-collection",
     "image-link-blocks",
     "impact-text",
     "featured_collection_b7EYQj",
