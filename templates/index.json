@@ -77,13 +77,7 @@
       "type": "featured-collection",
       "settings": {
         "collection": "maillots-ete🌞",
-        "products": [
-          "maillot-24-25-barcelone-special-13",
-          "maillot-24-25-psg-bleu",
-          "maillot-arsenal-rose",
-          "maillot-barcelone-rose-2025",
-          "fc-palestine-maillot-concept-noir"
-        ],
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -93,7 +87,7 @@
         "subheading": "",
         "title": "Notre sélection pour l'été 🌞🌴",
         "content": "",
-        "link_url": "shopify://collections/ete-🌞",
+        "link_url": "shopify://collections/maillots-ete🌞",
         "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
