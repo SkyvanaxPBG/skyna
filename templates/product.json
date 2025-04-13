@@ -107,10 +107,6 @@
           "settings": {
             "text": ""
           }
-        },
-        "pickup_availability_UYP6bb": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -128,8 +124,7 @@
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
         "description_d6nHGj",
         "liquid_pbEPUL",
-        "text_AJiMjm",
-        "pickup_availability_UYP6bb"
+        "text_AJiMjm"
       ],
       "settings": {
         "full_width": true,
