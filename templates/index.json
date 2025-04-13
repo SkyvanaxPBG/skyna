@@ -119,7 +119,7 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 5,
+        "products_count": 4,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
@@ -301,7 +301,7 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 5,
+        "products_count": 2,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
@@ -321,16 +321,6 @@
     "images_with_text_scrolling_m7by7U": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "item_JG4kmn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/bradley_barcola.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Durabilité hors du commun, faite pour perdurer !",
-            "content": "<p><br/>Durabilité hors du commun, faite pour perdurer !<br/><br/> Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/><br/></p>"
-          }
-        },
         "item_X6WVQc": {
           "type": "item",
           "settings": {
@@ -338,13 +328,23 @@
             "icon": "none",
             "icon_width": 48,
             "title": "L'Excellence Qui Perdure à Travers le Temps !",
-            "content": "<p><br/>Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/></p>"
+            "content": "<h5><br/>Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/></h5>"
+          }
+        },
+        "item_JG4kmn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/bradley_barcola.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Durabilité hors du commun, faite pour perdurer !",
+            "content": "<h6><br/>Durabilité hors du commun, faite pour perdurer !<br/><br/> Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/><br/></h6>"
           }
         }
       },
       "block_order": [
-        "item_JG4kmn",
-        "item_X6WVQc"
+        "item_X6WVQc",
+        "item_JG4kmn"
       ],
       "settings": {
         "full_width": true,
