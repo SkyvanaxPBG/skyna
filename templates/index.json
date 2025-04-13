@@ -73,37 +73,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "ete-🌞",
-        "products": [
-          "maillot-24-25-real-madrid-special-rose",
-          "maillot-24-25-psg-bleu",
-          "inter-miami-maillot-concept-rose-bleu",
-          "maillot-arsenal-rose",
-          "maillot-bresil-2022-2024"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "Notre sélection pour l'été 🌞🌴",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -144,6 +113,38 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "ete-🌞",
+        "products": [
+          "maillot-24-25-psg-bleu",
+          "inter-miami-maillot-concept-rose-bleu",
+          "fc-palestine-maillot-concept-rose",
+          "maillot-arsenal-rose",
+          "maillot-bresil-2022-2024",
+          "fc-palestine-maillot-concept-noir"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Notre sélection pour l'été 🌞🌴",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "featured_collection_YRFPfV": {
@@ -349,8 +350,8 @@
   },
   "order": [
     "slideshow",
-    "featured-collection",
     "multiple-images-with-text",
+    "featured-collection",
     "featured_collection_YRFPfV",
     "image-link-blocks",
     "impact-text",
