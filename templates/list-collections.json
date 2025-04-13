@@ -19,7 +19,7 @@
           "premier-league",
           "bundesliga"
         ],
-        "collections_per_row": 4,
+        "collections_per_row": 2,
         "text_color": "#f0f0f0",
         "overlay_color": "#000000",
         "overlay_opacity": 30
