@@ -316,20 +316,10 @@
             "title": "Heading 1",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
-        },
-        "item_X6WVQc": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "item_EQK9dK",
-        "item_X6WVQc"
+        "item_EQK9dK"
       ],
       "settings": {
         "full_width": true,
@@ -355,20 +345,10 @@
             "title": "Heading 1",
             "content": "<p>t vrm un pd</p>"
           }
-        },
-        "item_J4GUnd": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "item_n4Ryyj",
-        "item_J4GUnd"
+        "item_n4Ryyj"
       ],
       "settings": {
         "full_width": true,
