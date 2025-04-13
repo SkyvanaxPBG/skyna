@@ -311,6 +311,7 @@
         "item_JG4kmn": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/telechargement_1_1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Durabilité hors du commun, faite pour perdurer !",
