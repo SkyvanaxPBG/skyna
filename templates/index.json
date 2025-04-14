@@ -132,7 +132,7 @@
     "featured_collection_VtRLif": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "meme-les-petits-heros-meritent-leur-maillot",
         "products": [],
         "full_width": true,
         "stack_products": true,
@@ -141,10 +141,10 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Maillot de mini-champion",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
