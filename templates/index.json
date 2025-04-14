@@ -113,7 +113,7 @@
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 5,
+        "products_count": 9,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
@@ -281,31 +281,6 @@
         "button_text_color": ""
       }
     },
-    "featured_collection_b7EYQj": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "taille",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "Les Petits Champions méritent le meilleur !",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "images_with_text_scrolling_m7by7U": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -355,7 +330,6 @@
     "multiple-images-with-text",
     "image-link-blocks",
     "impact-text",
-    "featured_collection_b7EYQj",
     "images_with_text_scrolling_m7by7U"
   ]
 }
