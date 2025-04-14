@@ -1264,3 +1264,86 @@ quick buy information in a template, that will be extracted in JS, but ensure it
   ]
 }
 {% endschema %}
+/* === Style général de la page compte client === */
+.customer .page-width {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f9;
+}
+
+/* === Titres === */
+.customer h1, .customer h2 {
+    font-size: 28px;
+    text-align: center;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+/* === Sections (infos, commandes, etc.) === */
+.customer .grid, .customer .account__section {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin-bottom: 30px;
+}
+
+/* === Boutons === */
+.customer a.btn, .customer button {
+    background-color: #1a73e8;
+    color: #fff !important;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+}
+
+.customer a.btn:hover, .customer button:hover {
+    background-color: #155ab6;
+}
+
+/* === Tableau des commandes === */
+.customer table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.customer table th, .customer table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.customer table th {
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+/* === Responsive pour mobile === */
+@media screen and (max-width: 768px) {
+    .customer .page-width {
+        padding: 20px 10px;
+    }
+
+    .customer table, .customer table thead, .customer table tbody, .customer table th, .customer table td, .customer table tr {
+        display: block;
+    }
+
+    .customer table td {
+        padding-left: 50%;
+        position: relative;
+    }
+
+    .customer table td::before {
+        position: absolute;
+        left: 15px;
+        width: 45%;
+        white-space: nowrap;
+        font-weight: bold;
+    }
+}
