@@ -290,7 +290,8 @@
         "collection_maQW8U": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "bresil",
+            "image": "shopify://shop_images/Flag_of_Brazil.svg",
             "subheading": "",
             "title": "",
             "url": "",
