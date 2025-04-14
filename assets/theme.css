@@ -9878,3 +9878,6 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+.avisplus-price {
+  display: none !important;
+}
