@@ -43,11 +43,6 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "17985673643287205206": {
-        "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/app_setting/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
-        "disabled": false,
-        "settings": {}
-      },
       "14952540001915115444": {
         "type": "shopify://apps/upcart-cart-drawer/blocks/app-embed/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
         "disabled": true,
@@ -66,6 +61,11 @@
       "7916451724185839711": {
         "type": "shopify://apps/avis-product-options/blocks/avisplus-product-options/e076618e-4c9c-447f-ad6d-4f1577799c29",
         "disabled": false,
+        "settings": {}
+      },
+      "17985673643287205206": {
+        "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/app_setting/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
+        "disabled": true,
         "settings": {}
       }
     }

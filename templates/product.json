@@ -88,10 +88,6 @@
             "collapse_content": false
           }
         },
-        "payment_terms_NVLKGL": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "liquid_pbEPUL": {
           "type": "liquid",
           "settings": {
@@ -117,7 +113,6 @@
         "buy_buttons_YhfRNU",
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
         "description_d6nHGj",
-        "payment_terms_NVLKGL",
         "liquid_pbEPUL",
         "text_AJiMjm"
       ],
