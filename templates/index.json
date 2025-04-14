@@ -305,7 +305,8 @@
         "collection_WaVYKh": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "argentine",
+            "image": "shopify://shop_images/Flag_of_Italy_svg.webp",
             "subheading": "",
             "title": "",
             "url": "",
