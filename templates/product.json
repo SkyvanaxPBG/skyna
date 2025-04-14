@@ -78,14 +78,6 @@
             "payment_button_text_color": "#000000"
           }
         },
-        "separator_KGgPLc": {
-          "type": "separator",
-          "settings": {}
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T": {
           "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/delivery_coder_theme/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
           "settings": {}
@@ -95,6 +87,10 @@
           "settings": {
             "collapse_content": false
           }
+        },
+        "payment_terms_NVLKGL": {
+          "type": "payment_terms",
+          "settings": {}
         },
         "liquid_pbEPUL": {
           "type": "liquid",
@@ -119,10 +115,9 @@
         "variant_picker_g4bU7w",
         "quantity_selector_3anBxq",
         "buy_buttons_YhfRNU",
-        "separator_KGgPLc",
-        "payment_terms",
         "c_edd_estimated_delivery_date_delivery_coder_theme_dkGP7T",
         "description_d6nHGj",
+        "payment_terms_NVLKGL",
         "liquid_pbEPUL",
         "text_AJiMjm"
       ],
