@@ -37,8 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ALLOFOOT_2_ACEUILLE.png",
-            "mobile_image": "shopify://shop_images/ALLOFOOT_2_ACEUILLE_20fa5394-ea62-4aa2-9b73-7aee60d8225e.png",
+            "image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
+            "mobile_image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -47,7 +47,7 @@
             "heading_tag": "h0",
             "button_text": "voir les maillots",
             "button_link": "shopify://collections/tout-les-maillots",
-            "text_color": "#f0f0f0",
+            "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
             "overlay_color": "#000000",
@@ -120,31 +120,6 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "featured_collection_VtRLif": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "meme-les-petits-heros-meritent-leur-maillot",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Maillot de mini-champion",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -408,48 +383,15 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "video_7W8EEz": {
-      "type": "video",
-      "blocks": {
-        "play_nqGJFL": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_AcYf9F": {
-          "type": "heading",
-          "settings": {
-            "text": "LES NOUVEAUTÉS !",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_nqGJFL",
-        "heading_AcYf9F"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/4227845.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "slideshow",
     "featured_collection_AmnCWA",
     "featured_collection_YRFPfV",
-    "featured_collection_VtRLif",
     "multiple-images-with-text",
     "image-link-blocks",
     "collection_list_rPdxgF",
-    "images_with_text_scrolling_m7by7U",
-    "video_7W8EEz"
+    "images_with_text_scrolling_m7by7U"
   ]
 }
