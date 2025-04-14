@@ -275,7 +275,8 @@
         "collection_ttmwmN": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "france",
+            "image": "shopify://shop_images/pngtree-french-flag-red-france-flag-photo-image_9272432.jpg",
             "subheading": "",
             "title": "",
             "url": "",
