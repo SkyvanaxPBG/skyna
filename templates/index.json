@@ -112,14 +112,13 @@
           "fc-palestine-maillot-concept-rose",
           "inter-miami-maillot-concept-rose-bleu",
           "japon-maillot-concept-rose-blanc",
-          "maillot-11-12-santos-retro",
           "maillot-2024-2025-paris-saint-germain-maillot-third",
-          "maillot-barcelone-rose-2025"
+          "inter-miami-24-25-maillot-third-bleu"
         ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 4,
+        "products_count": 5,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
