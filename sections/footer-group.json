@@ -21,7 +21,7 @@
         "heading_8R8DAj": {
           "type": "heading",
           "settings": {
-            "text": "Les tendances",
+            "text": "LES NOUVEAUTÉS !",
             "heading_tag": "h1"
           }
         }
@@ -30,15 +30,16 @@
         "play_DTJcL6",
         "heading_8R8DAj"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "md",
+        "video_size": "sm",
         "video": "shopify://files/videos/4227845.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
-        "overlay_color": "#000000",
+        "overlay_color": "#1a1a1a",
         "overlay_opacity": 30
       }
     },
