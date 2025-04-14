@@ -9881,4 +9881,7 @@ split-lines {
 .avisplus-price {
   display: none !important;
 }
+.product__info-container [data-product-price-adjustment] {
+  display: none !important;
+}
 
