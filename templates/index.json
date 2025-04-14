@@ -269,22 +269,72 @@
         "heading_gradient": ""
       }
     },
-    "impact-text": {
-      "type": "impact-text",
+    "collection_list_rPdxgF": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_ttmwmN": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_maQW8U": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_WaVYKh": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_ttmwmN",
+        "collection_maQW8U",
+        "collection_WaVYKh"
+      ],
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "stack_collections": true,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Porte tes couleurs🌍",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "images_with_text_scrolling_m7by7U": {
@@ -300,6 +350,15 @@
             "content": "<h5><br/>Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/></h5>"
           }
         },
+        "item_h88fGL": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
         "item_JG4kmn": {
           "type": "item",
           "settings": {
@@ -313,6 +372,7 @@
       },
       "block_order": [
         "item_X6WVQc",
+        "item_h88fGL",
         "item_JG4kmn"
       ],
       "settings": {
@@ -335,7 +395,7 @@
     "featured_collection_YRFPfV",
     "multiple-images-with-text",
     "image-link-blocks",
-    "impact-text",
+    "collection_list_rPdxgF",
     "images_with_text_scrolling_m7by7U"
   ]
 }
