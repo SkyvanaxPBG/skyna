@@ -37,8 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/realmadrid_cristiano-picaai.png",
-            "mobile_image": "shopify://shop_images/realmadrid_cristiano-picaai.png",
+            "image": "shopify://shop_images/ALLOFOOT_2_ACEUILLE.png",
+            "mobile_image": "shopify://shop_images/ALLOFOOT_2_ACEUILLE_20fa5394-ea62-4aa2-9b73-7aee60d8225e.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -47,7 +47,7 @@
             "heading_tag": "h0",
             "button_text": "voir les maillots",
             "button_link": "shopify://collections/tout-les-maillots",
-            "text_color": "#ffffff",
+            "text_color": "#f0f0f0",
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
             "overlay_color": "#000000",
