@@ -172,6 +172,20 @@
         "button_text_color": ""
       }
     },
+    "slideshow_6E8e87": {
+      "type": "slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -265,6 +279,23 @@
     },
     "impact-text": {
       "type": "impact-text",
+      "blocks": {
+        "item_kPJUtp": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_kPJUtp"
+      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -328,6 +359,7 @@
     "featured_collection_AmnCWA",
     "featured_collection_YRFPfV",
     "multiple-images-with-text",
+    "slideshow_6E8e87",
     "image-link-blocks",
     "impact-text",
     "images_with_text_scrolling_m7by7U"
