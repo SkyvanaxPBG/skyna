@@ -73,31 +73,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "maillots-ete🌞",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 31,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Notre sélection pour l'été 🌞🌴",
-        "content": "",
-        "link_url": "shopify://collections/maillots-ete🌞",
-        "link_text": "Voir tout",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "featured_collection_YRFPfV": {
       "type": "featured-collection",
       "settings": {
@@ -325,7 +300,6 @@
   },
   "order": [
     "slideshow",
-    "featured-collection",
     "featured_collection_YRFPfV",
     "multiple-images-with-text",
     "image-link-blocks",
