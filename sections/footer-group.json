@@ -11,6 +11,37 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "video_nJAQK3": {
+      "type": "video",
+      "blocks": {
+        "play_DTJcL6": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_8R8DAj": {
+          "type": "heading",
+          "settings": {
+            "text": "Les tendances",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_DTJcL6",
+        "heading_8R8DAj"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify://files/videos/4227845.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -38,6 +69,7 @@
     }
   },
   "order": [
+    "video_nJAQK3",
     "footer"
   ]
 }
