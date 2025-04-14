@@ -30,7 +30,6 @@
         "play_DTJcL6",
         "heading_8R8DAj"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -45,20 +44,6 @@
     },
     "footer": {
       "type": "footer",
-      "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "inscrit toi pour recevoir les nouveautés!!",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "newsletter"
-      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
