@@ -73,31 +73,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "featured_collection_AmnCWA": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "maillots-ete🌞",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "Notre sélection pour l'été🌞",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "featured_collection_YRFPfV": {
       "type": "featured-collection",
       "settings": {
@@ -121,6 +96,37 @@
         "content": "",
         "link_url": "",
         "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_AmnCWA": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "maillots-ete🌞-1",
+        "products": [
+          "fc-palestine-maillot-concept-rose",
+          "fc-barcelone-third-24-25-jaune-fluo-1",
+          "fc-barcelone-2024-2025-ext",
+          "galatasaray-3eme-maillot-2024-2025",
+          "ajax-edition-speciale-color-2023-2024"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Notre sélection pour l'été🌞",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -170,20 +176,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "slideshow_6E8e87": {
-      "type": "slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#F2F2F2",
-        "background_gradient": ""
       }
     },
     "image-link-blocks": {
@@ -279,23 +271,6 @@
     },
     "impact-text": {
       "type": "impact-text",
-      "blocks": {
-        "item_kPJUtp": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_kPJUtp"
-      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -356,10 +331,9 @@
   },
   "order": [
     "slideshow",
-    "featured_collection_AmnCWA",
     "featured_collection_YRFPfV",
+    "featured_collection_AmnCWA",
     "multiple-images-with-text",
-    "slideshow_6E8e87",
     "image-link-blocks",
     "impact-text",
     "images_with_text_scrolling_m7by7U"
