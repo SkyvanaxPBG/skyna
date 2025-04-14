@@ -73,6 +73,31 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "featured_collection_AmnCWA": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "maillots-ete🌞",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Notre sélection pour l'été🌞",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir tout",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured_collection_YRFPfV": {
       "type": "featured-collection",
       "settings": {
@@ -96,31 +121,6 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "featured_collection_AmnCWA": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "maillots-ete🌞",
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "Notre sélection pour l'été🌞",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
