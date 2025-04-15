@@ -85,7 +85,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "LES MEILLEURS MAILLOTS POR L'ÉTÉ",
+        "title": "LES MEILLEURS MAILLOTS POR L'ÉTÉ !!!",
         "content": "",
         "link_url": "",
         "link_text": "Voir tout",
@@ -96,6 +96,39 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "image_with_text_overlay_w9dhWG": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_GdDgz8": {
+          "type": "heading",
+          "settings": {
+            "text": "Maillots irrésistibles,Respirez le Style",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_kqgLcR": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Vous êtes l'excellence.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdDgz8",
+        "richtext_kqgLcR"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "featured_collection_YRFPfV": {
@@ -116,7 +149,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "Vos coups de cœur 💙",
+        "title": "VOUS ALLEZ ADORER !!!!",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -141,7 +174,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "Un maillot pour chaque héros",
+        "title": "UN MAILLOT POUR CHAQUE HÉRO",
         "content": "",
         "link_url": "",
         "link_text": "Voir tout",
@@ -447,6 +480,7 @@
   "order": [
     "slideshow",
     "featured_collection_AmnCWA",
+    "image_with_text_overlay_w9dhWG",
     "featured_collection_YRFPfV",
     "featured_collection_JEdGtN",
     "multiple-images-with-text",
