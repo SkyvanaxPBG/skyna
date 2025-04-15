@@ -84,45 +84,35 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-    <script>
-document.addEventListener('DOMContentLoaded', function () {
-  const waitForElement = (selector, callback) => {
-    const observer = new MutationObserver(() => {
-      const element = document.querySelector(selector);
-      if (element) {
-        observer.disconnect();
-        callback(element);
+  <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const interval = setInterval(() => {
+    const addToCartBtn = document.querySelector('form[action*="/cart"] [type="submit"]');
+    const customInputs = document.querySelectorAll('input[type="text"], textarea');
+
+    if (!addToCartBtn || customInputs.length === 0) return;
+
+    let hasValue = false;
+    customInputs.forEach(input => {
+      if (input.value.trim() !== "") {
+        hasValue = true;
       }
     });
-    observer.observe(document.body, { childList: true, subtree: true });
-  };
 
-  waitForElement('button[type="submit"]', (addToCartBtn) => {
-    const textInputs = document.querySelectorAll('input[type="text"], textarea');
-
-    function checkInputs() {
-      let hasText = false;
-      textInputs.forEach(input => {
-        if (input.value.trim() !== '') {
-          hasText = true;
-        }
-      });
-
-      if (addToCartBtn) {
-        addToCartBtn.style.display = 'block';
-        addToCartBtn.removeAttribute('disabled');
-        addToCartBtn.classList.remove('disabled');
-      }
+    if (hasValue) {
+      // Forcer l'affichage du bouton
+      addToCartBtn.style.display = "block";
+      addToCartBtn.disabled = false;
+      addToCartBtn.removeAttribute("disabled");
+      addToCartBtn.classList.remove("disabled");
     }
 
-    textInputs.forEach(input => {
-      input.addEventListener('input', checkInputs);
-    });
+  }, 500); // Vérifie toutes les 500 ms
 
-    checkInputs(); // Appel initial
-  });
+  // Arrêter l'intervalle après 10 secondes (tu peux augmenter si besoin)
+  setTimeout(() => clearInterval(interval), 10000);
 });
 </script>
-  <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}</div></body>
+</div></body>
   
 </html>
