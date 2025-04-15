@@ -49,11 +49,6 @@
         "disabled": true,
         "settings": {}
       },
-      "6289495341927022121": {
-        "type": "shopify://apps/ymq-cart-drawer-cart-upsell/blocks/app-embed/998af8a7-571f-419f-b29a-2dd178cb5578",
-        "disabled": true,
-        "settings": {}
-      },
       "22230382528836309": {
         "type": "shopify://apps/xb-sticky-add-to-cart/blocks/core_script/e9179814-5d2a-40d0-a03d-245bcb819e73",
         "disabled": false,

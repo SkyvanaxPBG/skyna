@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/barca_aceuille_allofoot.png",
-            "mobile_image": "shopify://shop_images/barca_aceuille_allofoot.png",
+            "image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
+            "mobile_image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -85,7 +85,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "LES MEILLEURS MAILLOTS POR L'ÉTÉ !!!",
+        "title": "LES MEILLEURS MAILLOTS POUR L'ÉTÉ !!!",
         "content": "",
         "link_url": "",
         "link_text": "Voir tout",
