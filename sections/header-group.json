@@ -35,8 +35,8 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-lg",
-        "navigation_mode": "scrolling",
+        "text_size": "text-xxs",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#000000",
         "background_gradient": "",
