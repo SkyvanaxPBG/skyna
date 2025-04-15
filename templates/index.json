@@ -19,10 +19,10 @@
             "mobile_image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-start text-start",
-            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Le style démarre dès le coup d’envoi !",
-            "heading_tag": "h3",
+            "title": "Le style démarre dès le coup d’envoi!!!",
+            "heading_tag": "h2",
             "button_text": "voir les maillot",
             "button_link": "shopify://collections",
             "text_color": "#f0f0f0",
@@ -41,13 +41,13 @@
             "mobile_image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center-end text-end",
-            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Découvrer nos maillots",
-            "heading_tag": "h0",
+            "heading_tag": "h1",
             "button_text": "Voir les maillots",
             "button_link": "shopify://collections/tout-les-maillots",
-            "text_color": "#ffffff",
+            "text_color": "#f0f0f0",
             "button_background": "#ffffff",
             "button_text_color": "#f0f0f0",
             "overlay_color": "#000000",
@@ -344,6 +344,39 @@
         "overlay_opacity": 30
       }
     },
+    "image_with_text_overlay_pLigdP": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_RzkkPX": {
+          "type": "subheading",
+          "settings": {
+            "text": "une qualité indétrônable"
+          }
+        },
+        "heading_hdDgcD": {
+          "type": "heading",
+          "settings": {
+            "text": "des flocages à couper le souffle !!!",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_RzkkPX",
+        "heading_hdDgcD"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "collection_list_rPdxgF": {
       "type": "collection-list",
       "blocks": {
@@ -414,47 +447,6 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "images_with_text_scrolling_m7by7U": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_X6WVQc": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/telechargement_7749a36b-4b0b-460c-9451-707871a6f450.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "L'Excellence Qui Perdure à Travers le Temps !",
-            "content": "<h5><br/><br/>Nos maillots, conçus à partir de matériaux de qualité supérieure, présentent une résistance exceptionnelle face aux lavages fréquents et à l'usure.  Profitez d'une tenue qui conserve sa forme et sa couleur, jeu après jeu.<br/><br/><br/><br/></h5>"
-          }
-        },
-        "item_JG4kmn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/bradley_barcola.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Durabilité hors du commun, faite pour perdurer !",
-            "content": "<h6><br/>Durabilité hors du commun, faite pour perdurer !<br/><br/> Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/><br/></h6>"
-          }
-        }
-      },
-      "block_order": [
-        "item_X6WVQc",
-        "item_JG4kmn"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "fade",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
     }
   },
   "order": [
@@ -466,7 +458,7 @@
     "multiple-images-with-text",
     "image-link-blocks",
     "video_8cLki6",
-    "collection_list_rPdxgF",
-    "images_with_text_scrolling_m7by7U"
+    "image_with_text_overlay_pLigdP",
+    "collection_list_rPdxgF"
   ]
 }
