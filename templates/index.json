@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Messi_10-picaai.png",
-            "mobile_image": "shopify://shop_images/Messi_10-picaai.png",
+            "image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
+            "mobile_image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-center sm:text-center",
