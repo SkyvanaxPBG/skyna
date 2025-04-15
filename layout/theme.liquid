@@ -84,8 +84,7 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-  <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}</div></body>
-<script>
+    <script>
 document.addEventListener('DOMContentLoaded', function () {
   const waitForElement = (selector, callback) => {
     const observer = new MutationObserver(() => {
@@ -120,10 +119,10 @@ document.addEventListener('DOMContentLoaded', function () {
       input.addEventListener('input', checkInputs);
     });
 
-    checkInputs();
+    checkInputs(); // Appel initial
   });
 });
 </script>
-
-
+  <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}</div></body>
+  
 </html>
