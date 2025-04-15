@@ -84,35 +84,7 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-  <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const interval = setInterval(() => {
-    const addToCartBtn = document.querySelector('form[action*="/cart"] [type="submit"]');
-    const customInputs = document.querySelectorAll('input[type="text"], textarea');
-
-    if (!addToCartBtn || customInputs.length === 0) return;
-
-    let hasValue = false;
-    customInputs.forEach(input => {
-      if (input.value.trim() !== "") {
-        hasValue = true;
-      }
-    });
-
-    if (hasValue) {
-      
-      addToCartBtn.style.display = "block";
-      addToCartBtn.disabled = false;
-      addToCartBtn.removeAttribute("disabled");
-      addToCartBtn.classList.remove("disabled");
-    }
-
-  }, 500); // 
-
-  
-  setTimeout(() => clearInterval(interval), 10000);
-});
-</script>
+  <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}=
 </div></body>
   
 </html>
