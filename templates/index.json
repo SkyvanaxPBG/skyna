@@ -19,10 +19,10 @@
             "mobile_image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-start text-start",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "subheading": "",
             "title": "Le style commence au coup d’envoi!!!",
-            "heading_tag": "h2",
+            "heading_tag": "h0",
             "button_text": "voir les maillot",
             "button_link": "shopify://collections",
             "text_color": "#f0f0f0",
@@ -40,8 +40,8 @@
             "image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "mobile_image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "content_max_width": 1200,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-center-end text-end",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "subheading": "",
             "title": "Découvrer nos maillots",
             "heading_tag": "h0",
@@ -320,6 +320,30 @@
         "heading_gradient": ""
       }
     },
+    "video_8cLki6": {
+      "type": "video",
+      "blocks": {
+        "play_kCRm73": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_kCRm73"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/4227845.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "collection_list_rPdxgF": {
       "type": "collection-list",
       "blocks": {
@@ -431,30 +455,6 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "video_8cLki6": {
-      "type": "video",
-      "blocks": {
-        "play_kCRm73": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_kCRm73"
-      ],
-      "custom_css": [],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/4227845.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
@@ -465,8 +465,8 @@
     "featured_collection_JEdGtN",
     "multiple-images-with-text",
     "image-link-blocks",
+    "video_8cLki6",
     "collection_list_rPdxgF",
-    "images_with_text_scrolling_m7by7U",
-    "video_8cLki6"
+    "images_with_text_scrolling_m7by7U"
   ]
 }
