@@ -11,8 +11,25 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "newsletter_XA84GH": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "abonnez vous a Allofoot pour voir les nouveauté!!!",
+        "content": "",
+        "button_text": "soumettre",
+        "subtext": "",
+        "background": "#f0f0f0",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "button_background": "#000000",
+        "button_text_color": "#000000"
+      }
+    },
     "footer": {
       "type": "footer",
+      "custom_css": [],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
@@ -24,6 +41,7 @@
     }
   },
   "order": [
+    "newsletter_XA84GH",
     "footer"
   ]
 }
