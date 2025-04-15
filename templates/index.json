@@ -129,6 +129,31 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_JEdGtN": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "meme-les-petits-heros-meritent-leur-maillot",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "Un maillot pour chaque héros",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -423,6 +448,7 @@
     "slideshow",
     "featured_collection_AmnCWA",
     "featured_collection_YRFPfV",
+    "featured_collection_JEdGtN",
     "multiple-images-with-text",
     "image-link-blocks",
     "collection_list_rPdxgF",
