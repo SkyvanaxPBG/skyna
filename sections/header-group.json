@@ -45,6 +45,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".site-header {background-color: black; /* Fond noir */}"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
