@@ -386,11 +386,14 @@
     Ton navigateur ne supporte pas les vidéos HTML5.
   </video>
 
-  <!-- BOUTON centré -->
+  <!-- BOUTON avec effet hover -->
   <a href="/collections/tous-les-produits"
      style="position: absolute; top: -50%; left: 50%; transform: translate(-50%, -50%);
-            background-color: #000; color: #fff; padding: 12px 24px; text-decoration: none;
-            border-radius: 5px; font-weight: bold; font-size: 16px;">
+            background-color: rgba(0, 0, 0, 1); color: #fff; padding: 12px 24px; text-decoration: none;
+            border-radius: 5px; font-weight: bold; font-size: 16px;
+            transition: background-color 0.3s ease, color 0.3s ease;"
+     onmouseover="this.style.backgroundColor='transparent'; this.style.color='#000'; this.style.border='2px solid #000';"
+     onmouseout="this.style.backgroundColor='rgba(0, 0, 0, 1)'; this.style.color='#fff'; this.style.border='none';">
     Acheter maintenant
   </a>
 </div>
