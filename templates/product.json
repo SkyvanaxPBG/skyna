@@ -78,12 +78,6 @@
             "payment_button_text_color": "#000000"
           }
         },
-        "description_d6nHGj": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "liquid_pbEPUL": {
           "type": "liquid",
           "settings": {
@@ -107,7 +101,6 @@
         "variant_picker_g4bU7w",
         "quantity_selector_3anBxq",
         "buy_buttons_YhfRNU",
-        "description_d6nHGj",
         "liquid_pbEPUL",
         "text_AJiMjm"
       ],
