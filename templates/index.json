@@ -341,6 +341,7 @@
           "settings": {
             "image": "shopify://shop_images/telechargement_7749a36b-4b0b-460c-9451-707871a6f450.jpg",
             "icon": "none",
+            "custom_icon": "shopify://shop_images/channels4_profile.jpg",
             "icon_width": 48,
             "title": "L'Excellence Qui Perdure à Travers le Temps !",
             "content": "<h5><br/>Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/></h5>"
