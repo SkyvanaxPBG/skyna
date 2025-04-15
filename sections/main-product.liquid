@@ -1264,13 +1264,20 @@ quick buy information in a template, that will be extracted in JS, but ensure it
   ]
 }
 {% endschema %}
-header {
-  background-color: #000000 !important;
-  color: #ffffff !important;
-}
-header a,
-header svg,
-header .icon {
-  color: #ffffff !important;
-  fill: #ffffff !important;
-}
+<style>
+  header.header,
+  .shopify-section-header-sticky {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+
+  header.header a,
+  header.header svg,
+  .shopify-section-header-sticky a,
+  .shopify-section-header-sticky svg {
+    color: #ffffff !important;
+    fill: #ffffff !important;
+  }
+</style>
+
+
