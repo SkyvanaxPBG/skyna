@@ -404,15 +404,6 @@
             "content": "<h5><br/><br/>Nos maillots, conçus à partir de matériaux de qualité supérieure, présentent une résistance exceptionnelle face aux lavages fréquents et à l'usure.  Profitez d'une tenue qui conserve sa forme et sa couleur, jeu après jeu.<br/><br/><br/><br/></h5>"
           }
         },
-        "item_h88fGL": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
         "item_JG4kmn": {
           "type": "item",
           "settings": {
@@ -422,22 +413,11 @@
             "title": "Durabilité hors du commun, faite pour perdurer !",
             "content": "<h6><br/>Durabilité hors du commun, faite pour perdurer !<br/><br/> Fabriqués à partir de matériaux de premier choix, nos maillots sont dotés d'une durabilité remarquable face aux lavages répétés et à l'abrasion.  Bénéficiez d'un habit qui garde sa structure et sa teinte, match après match.<br/><br/><br/></h6>"
           }
-        },
-        "item_3whJEF": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
         "item_X6WVQc",
-        "item_h88fGL",
-        "item_JG4kmn",
-        "item_3whJEF"
+        "item_JG4kmn"
       ],
       "settings": {
         "full_width": true,
