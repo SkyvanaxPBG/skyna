@@ -84,19 +84,33 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const form = document.querySelector('form[action^="/cart/add"]');
-      if (!form) return;
-
-      form.addEventListener('input', function() {
-        const addToCartBtn = document.querySelector('button[type="submit"]');
-        if (addToCartBtn) {
-          addToCartBtn.style.display = 'block';
-          addToCartBtn.removeAttribute('disabled');
-        }
-      });
-    });
-  </script>
   <div class="shopify-dynamic-checkout---buttons" style="display:none!important;">{{ content_for_additional_checkout_buttons }}</div></body>
+  <script>
+document.addEventListener('DOMContentLoaded', function () {
+  const textInputs = document.querySelectorAll('input[type="text"], textarea');
+  const addToCartBtn = document.querySelector('button[type="submit"]');
+
+  function checkInputs() {
+    let hasText = false;
+    textInputs.forEach(input => {
+      if (input.value.trim() !== '') {
+        hasText = true;
+      }
+    });
+
+    if (hasText && addToCartBtn) {
+      addToCartBtn.style.display = 'block';
+      addToCartBtn.removeAttribute('disabled');
+      addToCartBtn.classList.remove('disabled');
+    }
+  }
+
+  textInputs.forEach(input => {
+    input.addEventListener('input', checkInputs);
+  });
+
+  checkInputs();
+});
+</script>
+
 </html>
