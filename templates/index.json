@@ -15,10 +15,10 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
-            "mobile_image": "shopify://shop_images/PSG_ACEUILLE_V2_FINAL_ALLOFOOT.png",
+            "image": "shopify://shop_images/barca_aceuille_allofoot.png",
+            "mobile_image": "shopify://shop_images/barca_aceuille_allofoot.png",
             "content_max_width": 400,
-            "mobile_text_position": "place-self-center-start text-start",
+            "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Le style démarre dès le coup d’envoi!!!",
@@ -40,7 +40,7 @@
             "image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "mobile_image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "content_max_width": 1200,
-            "mobile_text_position": "place-self-end-start text-start",
+            "mobile_text_position": "place-self-center-end text-end",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Découvrer nos maillots",
