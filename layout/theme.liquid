@@ -121,6 +121,7 @@ document.addEventListener("DOMContentLoaded", function () {
       observeAndActivate();
     }
   });
+setInterval(observeAndActivate, 1000); // toutes les 1 sec
 
   // Appel initial au cas où les champs sont pré-remplis
   observeAndActivate();
