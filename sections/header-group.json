@@ -62,7 +62,8 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
-        "transparent_header_text_color": "#000000",
+        "transparent_header_text_color": "#f0f0f0",
+        "transparent_logo": "shopify://shop_images/OIP_30.jpg",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
