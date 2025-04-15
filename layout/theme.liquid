@@ -100,16 +100,16 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     if (hasValue) {
-      // Forcer l'affichage du bouton
+      
       addToCartBtn.style.display = "block";
       addToCartBtn.disabled = false;
       addToCartBtn.removeAttribute("disabled");
       addToCartBtn.classList.remove("disabled");
     }
 
-  }, 500); // Vérifie toutes les 500 ms
+  }, 500); // 
 
-  // Arrêter l'intervalle après 10 secondes (tu peux augmenter si besoin)
+  
   setTimeout(() => clearInterval(interval), 10000);
 });
 </script>
