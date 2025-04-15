@@ -390,18 +390,10 @@
         "play_kCRm73": {
           "type": "play",
           "settings": {}
-        },
-        "heading_rmRqic": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_kCRm73",
-        "heading_rmRqic"
+        "play_kCRm73"
       ],
       "custom_css": [],
       "settings": {
