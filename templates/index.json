@@ -104,14 +104,14 @@
         "heading_GdDgz8": {
           "type": "heading",
           "settings": {
-            "text": "Maillots irrésistibles, Respirez le Style",
-            "heading_tag": "h3"
+            "text": "DES FLOCAGES A COUPER LE SOUFFLE !!",
+            "heading_tag": "h2"
           }
         },
         "richtext_kqgLcR": {
           "type": "richtext",
           "settings": {
-            "content": "<p><br/>Vous êtes l'excellence.<br/><br/></p>"
+            "content": "<p><strong><br/>QUALITÉS INDÉTRONABLE !</strong><br/><br/></p>"
           }
         }
       },
@@ -322,41 +322,6 @@
         "heading_gradient": ""
       }
     },
-    "image_with_text_overlay_pLigdP": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_RzkkPX": {
-          "type": "subheading",
-          "settings": {
-            "text": "une qualité indétrônable"
-          }
-        },
-        "heading_hdDgcD": {
-          "type": "heading",
-          "settings": {
-            "text": "des flocages à couper le souffle !!!",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_RzkkPX",
-        "heading_hdDgcD"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/barca_aceuille_allofoot.png",
-        "mobile_image": "shopify://shop_images/barca_aceuille_allofoot.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "collection_list_rPdxgF": {
       "type": "collection-list",
       "blocks": {
@@ -461,7 +426,6 @@
     "featured_collection_JEdGtN",
     "multiple-images-with-text",
     "image-link-blocks",
-    "image_with_text_overlay_pLigdP",
     "collection_list_rPdxgF",
     "video_8cLki6"
   ]
