@@ -15,14 +15,14 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mbappe_aceuille_halofoot_v_final.jpg",
+            "image": "shopify://shop_images/Plan_de_travail_1.jpg",
             "mobile_image": "shopify://shop_images/Plan_de_travail_1.jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "",
             "title": "Le style démarre dès le coup d’envoi!!!",
-            "heading_tag": "h2",
+            "heading_tag": "h4",
             "button_text": "voir les maillot",
             "button_link": "shopify://collections",
             "text_color": "#f0f0f0",
@@ -37,14 +37,14 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/desirer_doue_acueille_halofoot_vfinal.jpg",
+            "image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "mobile_image": "shopify://shop_images/ALLOFOOT_ACEUILLLE_V3_CITY.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-end-start text-start",
-            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "",
             "title": "Découvrer nos maillots",
-            "heading_tag": "h2",
+            "heading_tag": "h1",
             "button_text": "Voir les maillots",
             "button_link": "shopify://collections/tout-les-maillots",
             "text_color": "#f0f0f0",
@@ -79,7 +79,7 @@
         "collection": "maillots-ete🌞-1",
         "products": [],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_count": 5,
         "products_per_row_mobile": "2",
@@ -104,14 +104,14 @@
         "heading_GdDgz8": {
           "type": "heading",
           "settings": {
-            "text": "DES FLOCAGES A COUPER LE SOUFFLE !!",
-            "heading_tag": "h2"
+            "text": "Maillots irrésistibles, Respirez le Style",
+            "heading_tag": "h3"
           }
         },
         "richtext_kqgLcR": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong><br/>QUALITÉS INDÉTRONABLE !</strong><br/><br/></p>"
+            "content": "<p><br/>Vous êtes l'excellence.<br/><br/></p>"
           }
         }
       },
@@ -145,7 +145,7 @@
           "inter-miami-24-25-maillot-third-bleu"
         ],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_count": 5,
         "products_per_row_mobile": "2",
@@ -322,6 +322,41 @@
         "heading_gradient": ""
       }
     },
+    "image_with_text_overlay_pLigdP": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_RzkkPX": {
+          "type": "subheading",
+          "settings": {
+            "text": "une qualité indétrônable"
+          }
+        },
+        "heading_hdDgcD": {
+          "type": "heading",
+          "settings": {
+            "text": "des flocages à couper le souffle !!!",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_RzkkPX",
+        "heading_hdDgcD"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/barca_aceuille_allofoot.png",
+        "mobile_image": "shopify://shop_images/barca_aceuille_allofoot.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "collection_list_rPdxgF": {
       "type": "collection-list",
       "blocks": {
@@ -426,6 +461,7 @@
     "featured_collection_JEdGtN",
     "multiple-images-with-text",
     "image-link-blocks",
+    "image_with_text_overlay_pLigdP",
     "collection_list_rPdxgF",
     "video_8cLki6"
   ]
