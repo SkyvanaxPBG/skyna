@@ -58,6 +58,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "description_fUkai6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
         "separator_DVMrRd": {
           "type": "separator",
           "settings": {}
@@ -103,6 +109,7 @@
         "associated_products_RCeK6f",
         "variant_picker_g4bU7w",
         "quantity_selector_3anBxq",
+        "description_fUkai6",
         "separator_DVMrRd",
         "buy_buttons_8hzU8f",
         "product_variations_9Y8g4e",
