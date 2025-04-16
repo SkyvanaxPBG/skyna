@@ -58,6 +58,10 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "separator_DVMrRd": {
+          "type": "separator",
+          "settings": {}
+        },
         "buy_buttons_8hzU8f": {
           "type": "buy_buttons",
           "settings": {
@@ -99,6 +103,7 @@
         "associated_products_RCeK6f",
         "variant_picker_g4bU7w",
         "quantity_selector_3anBxq",
+        "separator_DVMrRd",
         "buy_buttons_8hzU8f",
         "product_variations_9Y8g4e",
         "liquid_pbEPUL",
