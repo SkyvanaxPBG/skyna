@@ -413,7 +413,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_collections": true,
+        "stack_collections": false,
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
