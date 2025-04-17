@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/mbappe_aceuille_halofoot_v_final.jpg",
-            "mobile_image": "shopify://shop_images/LMAINE_YAMAL_V5_FINAL_qf.jpg",
+            "mobile_image": "shopify://shop_images/cole_palmer_v6.jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
