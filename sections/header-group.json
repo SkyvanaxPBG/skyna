@@ -53,7 +53,7 @@
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/Design_sans_titre_1.png",
         "logo_max_width": 40,
-        "logo_mobile_max_width": 120,
+        "logo_mobile_max_width": 60,
         "menu": "main-menu",
         "sidebar_menu": "footer",
         "secondary_menu": "",
