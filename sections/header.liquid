@@ -23,7 +23,7 @@ the underlying logic of the menu.
     --header-padding-block: {% if section.settings.reduce_padding %}var(--spacing-3){% else %}var(--spacing-4-5){% endif %};
     --header-background-opacity: {{ section.settings.background_opacity | divided_by: 100.0 }};
     --header-background-blur-radius: {{ section.settings.background_blur_radius }}px;
-    --header-transparent-text-color: {{ section.settings.transparent_header_text_color.rgb }};
+    --header-transparent-text-color: {{ section.settings._header_text_black.rgb }};
 
     {%- if section.settings.logo != blank -%}
       --header-logo-width: {{ section.settings.logo_mobile_max_width }}px;
