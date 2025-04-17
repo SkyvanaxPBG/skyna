@@ -34,20 +34,22 @@
             "background_gradient": ""
           }
         },
-        "image_UdkgQi": {
+        "image_nLtkrf": {
           "type": "image",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
+            "image": "shopify://shop_images/desirer_doue_acueille_halofoot_vfinal.jpg",
+            "mobile_image": "shopify://shop_images/LMAINE_YAMAL_V5_FINAL_qf.jpg",
+            "content_max_width": 400,
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "subheading": "",
+            "title": "Le style démarre au coup d’envoie",
+            "heading_tag": "h5",
+            "button_text": "voir les maillot",
+            "button_link": "shopify://collections",
+            "text_color": "#f0f0f0",
             "button_background": "#ffffff",
-            "button_text_color": "#000000",
+            "button_text_color": "#f0f0f0",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "background": "",
@@ -57,7 +59,7 @@
       },
       "block_order": [
         "slide-1",
-        "image_UdkgQi"
+        "image_nLtkrf"
       ],
       "settings": {
         "full_width": true,
