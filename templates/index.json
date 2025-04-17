@@ -33,33 +33,10 @@
             "background": "",
             "background_gradient": ""
           }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/desirer_doue_acueille_halofoot_vfinal.jpg",
-            "mobile_image": "shopify://shop_images/cole_palmer_v6.jpg",
-            "content_max_width": 1200,
-            "mobile_text_position": "place-self-end-start text-start",
-            "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "",
-            "title": "Découvrer nos maillots",
-            "heading_tag": "h4",
-            "button_text": "Voir les maillots",
-            "button_link": "shopify://collections/tout-les-maillots",
-            "text_color": "#f0f0f0",
-            "button_background": "#ffffff",
-            "button_text_color": "#f0f0f0",
-            "overlay_color": "#000000",
-            "overlay_opacity": 13,
-            "background": "",
-            "background_gradient": ""
-          }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "slide-1"
       ],
       "settings": {
         "full_width": true,

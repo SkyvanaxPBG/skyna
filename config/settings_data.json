@@ -19,7 +19,7 @@
     "button_style": "outline",
     "background": "#ffffff",
     "text_color": "#1a1a1a",
-    "header_background": "#000000",
+    "header_background": "#ffffff",
     "header_text_color": "#1a1a1a",
     "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
