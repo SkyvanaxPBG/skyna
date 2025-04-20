@@ -147,10 +147,10 @@
           "maillot-de-lecosse-feminin-rose-2025",
           "maillot-de-lirlande-feminin-vert-2025"
         ],
-        "full_width": true,
+        "full_width": false,
         "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 5,
+        "show_progress_bar": false,
+        "products_count": 8,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
