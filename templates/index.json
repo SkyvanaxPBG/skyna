@@ -123,7 +123,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
+        "image_size": "md",
         "image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
         "mobile_image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
         "mobile_text_position": "place-self-center text-center",
