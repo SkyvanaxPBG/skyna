@@ -138,18 +138,18 @@
       "settings": {
         "collection": "",
         "products": [
-          "maillot-de-lespagne-feminin-beige-2025",
-          "maillot-feminin-belgique-jaune-2025",
+          "maillot-de-lecosse-feminin-rose-2025",
+          "maillot-de-litalie-feminin-vert-2025",
           "maillot-exterieur-allemagne-2025-equipe-feminine-rouge",
           "maillot-exterieur-suede-2025-equipe-feminine",
-          "maillot-de-litalie-feminin-vert-2025",
+          "maillot-de-lespagne-feminin-beige-2025",
+          "maillot-feminin-belgique-jaune-2025",
           "maillot-exterieur-pays-de-galles-2025-equipe-feminine",
-          "maillot-de-lecosse-feminin-rose-2025",
           "maillot-de-lirlande-feminin-vert-2025"
         ],
         "full_width": false,
         "stack_products": false,
-        "show_progress_bar": false,
+        "show_progress_bar": true,
         "products_count": 8,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
