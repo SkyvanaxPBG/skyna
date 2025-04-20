@@ -125,7 +125,7 @@
         "enable_parallax": false,
         "image_size": "md",
         "image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
-        "mobile_image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
+        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
