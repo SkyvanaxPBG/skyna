@@ -136,7 +136,7 @@
     "featured_collection_YRFPfV": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "europe",
         "products": [
           "maillot-de-lecosse-feminin-rose-2025",
           "maillot-de-litalie-feminin-vert-2025",
@@ -154,7 +154,7 @@
         "title": "NOS NOUVEAUTÉS !!!!!",
         "content": "",
         "link_url": "",
-        "link_text": "",
+        "link_text": "Voir tout",
         "background": "",
         "background_gradient": "",
         "text_color": "",
