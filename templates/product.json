@@ -58,12 +58,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "description_fUkai6": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "separator_DVMrRd": {
           "type": "separator",
           "settings": {}
@@ -77,6 +71,12 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "description_fUkai6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
           }
         },
         "product_variations_9Y8g4e": {
@@ -109,9 +109,9 @@
         "associated_products_RCeK6f",
         "variant_picker_g4bU7w",
         "quantity_selector_3anBxq",
-        "description_fUkai6",
         "separator_DVMrRd",
         "buy_buttons_8hzU8f",
+        "description_fUkai6",
         "product_variations_9Y8g4e",
         "liquid_pbEPUL",
         "text_AJiMjm"
