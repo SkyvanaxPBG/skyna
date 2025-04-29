@@ -64,6 +64,11 @@
         "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/app_setting/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
         "disabled": false,
         "settings": {}
+      },
+      "3720565183479497137": {
+        "type": "shopify://apps/globo-product-option/blocks/app-embed-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
