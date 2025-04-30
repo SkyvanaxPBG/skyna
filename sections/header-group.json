@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "-10%  sur votre première commande avec le code LDC10  🔥",
+            "text": "",
             "url": ""
           }
         },
         "message_3aPnQA": {
           "type": "message",
           "settings": {
-            "text": "2 maillot acheter 1 maillot offert 💥",
+            "text": "m",
             "url": ""
           }
         }
@@ -36,7 +36,7 @@
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#000000",
         "background_gradient": "",
@@ -51,7 +51,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Design_sans_titre_2.png",
         "logo_max_width": 40,
         "logo_mobile_max_width": 60,
         "menu": "main-menu",
