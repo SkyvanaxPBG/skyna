@@ -183,7 +183,7 @@
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
+        "max_image_zoom_level": 2.5,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -258,7 +258,7 @@
         "heading_hdDgcD": {
           "type": "heading",
           "settings": {
-            "text": "des flocages à couper le souffle !!!",
+            "text": "",
             "heading_tag": "h2"
           }
         }
