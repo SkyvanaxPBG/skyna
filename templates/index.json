@@ -51,11 +51,32 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_EYKqRK": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
         "slide-1",
-        "image_nLtkrf"
+        "image_nLtkrf",
+        "image_EYKqRK"
       ],
       "settings": {
         "full_width": true,
@@ -69,52 +90,109 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "featured_collection_AmnCWA": {
-      "type": "featured-collection",
+    "featured_product_XaCQEP": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_FPJeNB": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_68k6gD": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h1"
+          }
+        },
+        "badges_MyrKzw": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_chDFBA": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_htVFmB": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_BP4rPw": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_pxJa34": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_BLHRaR": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_BCt8ry": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_rJ3i6y": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_6Lwctq": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_FPJeNB",
+        "title_68k6gD",
+        "badges_MyrKzw",
+        "price_chDFBA",
+        "rating_htVFmB",
+        "separator_BP4rPw",
+        "description_pxJa34",
+        "variant_picker_BLHRaR",
+        "quantity_selector_BCt8ry",
+        "buy_buttons_rJ3i6y",
+        "pickup_availability_6Lwctq"
+      ],
+      "name": "Featured product",
       "settings": {
-        "collection": "",
-        "products": [],
         "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "image_with_text_overlay_w9dhWG": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_GdDgz8": {
-          "type": "heading",
-          "settings": {
-            "text": "Maillots irrésistibles, Respirez le Style",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_kqgLcR": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><br/>Vous êtes l'excellence.<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_GdDgz8",
-        "richtext_kqgLcR"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -125,62 +203,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "featured_collection_YRFPfV": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "europe",
-        "products": [
-          "maillot-de-lecosse-feminin-rose-2025",
-          "inter-miami-maillot-concept-rose-bleu",
-          "barca-2026",
-          "maillot-olympique-lyonnais-exterieur-2023-2024",
-          "maillot-algerie-exterieur-2024-2025"
-        ],
-        "full_width": false,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "featured_collection_JEdGtN": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "meme-les-petits-heros-meritent-leur-maillot",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 5,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "multiple-images-with-text": {
@@ -224,92 +246,6 @@
         "button_text_color": ""
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/premier-league",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/laliga",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/lige-1",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_FMEzWE": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/serie-a",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://collections/bundesliga",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "item_FMEzWE",
-        "1664424046b00c932c-3"
-      ],
-      "settings": {
-        "full_width": true,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "image_with_text_overlay_pLigdP": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -346,12 +282,9 @@
   },
   "order": [
     "slideshow",
-    "featured_collection_AmnCWA",
+    "featured_product_XaCQEP",
     "image_with_text_overlay_w9dhWG",
-    "featured_collection_YRFPfV",
-    "featured_collection_JEdGtN",
     "multiple-images-with-text",
-    "image-link-blocks",
     "image_with_text_overlay_pLigdP"
   ]
 }
