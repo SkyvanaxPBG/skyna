@@ -15,8 +15,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mbappe_aceuille_halofoot_v_final.jpg",
-            "mobile_image": "shopify://shop_images/cole_palmer_v6.jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -37,8 +35,6 @@
         "image_nLtkrf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/desirer_doue_acueille_halofoot_vfinal.jpg",
-            "mobile_image": "shopify://shop_images/LMAINE_YAMAL_V5_FINAL_qf.jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -76,7 +72,7 @@
     "featured_collection_AmnCWA": {
       "type": "featured-collection",
       "settings": {
-        "collection": "maillots-ete🌞-1",
+        "collection": "",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -85,7 +81,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "LES MEILLEURS MAILLOTS POUR L'ÉTÉ !!!",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "Voir tout",
@@ -124,8 +120,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/Plan_de_travail_11325_CR7.png",
-        "mobile_image": "shopify://shop_images/psg_psd_aceuille_allofoot.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -151,7 +145,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "VOS COUP DE COEUR !!!!",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -176,7 +170,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 5,
         "subheading": "",
-        "title": "UN MAILLOT POUR TOUS",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "Voir tout",
@@ -195,7 +189,6 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Dembele_Barcola_et_Doue.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Par et Pour les vrais passionnés",
@@ -237,7 +230,6 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/telechargement_14.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/premier-league",
@@ -250,7 +242,6 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/LALIGA.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/laliga",
@@ -263,7 +254,6 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/telechargement_15.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/lige-1",
@@ -276,7 +266,6 @@
         "item_FMEzWE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/telechargement_12.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/serie-a",
@@ -289,7 +278,6 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Bundesliga.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/bundesliga",
@@ -348,8 +336,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/DES_FLOCAGES_A_COUPER_LE_SOUFLLE.png",
-        "mobile_image": "shopify://shop_images/DES_FLOCAGES_A_COUPER_LE_SOUFLLE.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
